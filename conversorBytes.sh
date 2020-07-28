@@ -24,3 +24,5 @@ bytestohuman() {
 }
 
 bytestohuman "$1"; echo "${BYTESTOHUMAN_RESULT}.";
+
+echo "O PROCESSO FOI FINALIZADO COM SUCESSO"
